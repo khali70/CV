@@ -1,3 +1,3 @@
 ## about the project 
 
-a
+this is a cv web app
